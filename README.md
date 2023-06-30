@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @KangRokYoon
 - 👀 I’m interested in Front-End Developer
-- 🌱 I’m currently learning React,JS
+- 🌱 I’m currently learning React,JS,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ykr0919@naver.com	
 
