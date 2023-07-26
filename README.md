@@ -32,7 +32,7 @@
 
 ![snake gif](https://github.com/KangRokYoon/KangRokYoon/blob/output/github-contribution-grid-snake.svg)
 
-
+<img alt="github-snake" src="https://github.com/KangRokYoon/KangRokYoon/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 
 
