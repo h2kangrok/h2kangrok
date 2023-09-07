@@ -20,6 +20,10 @@
 	<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 </p>
 
+<h3>Studying now</h3>
+
+<img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
+
 <h3>My latest posts</h3>
 <ul>
   <li><a href="https://velog.io/@ykr0919/React-%EB%8F%99%EA%B8%B0%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98"> <b> [JS] 동기와 비동기 그리고 콜백 함수</b></li>
