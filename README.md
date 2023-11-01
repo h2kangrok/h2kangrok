@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm KangRok, ios developer from <img src="https://github.com/KangRokYoon/KangRokYoon/assets/129154834/6a763c64-03ff-49f6-a964-0750066369cb" width="13"/> <b>Daegu,Korea</b>
+<p>Welcome to my page! </br> I'm KangRok, IOS developer from <img src="https://github.com/KangRokYoon/KangRokYoon/assets/129154834/6a763c64-03ff-49f6-a964-0750066369cb" width="13"/> <b>Daegu,Korea</b>
 
 <h3>Activity</h3>
 <p>
@@ -9,8 +9,9 @@
 
 <h3>Things I code with</h3>
 
-<p>
-	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<p>	
+	<img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />
+ 	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 	<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 	<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
 	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -35,7 +36,9 @@
 </ul>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/KangRokYoon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://velog.io/@ykr0919" target="_blank"><img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?&style=for-the-badge&logo=Velog&logoColor=white" /></a>
+<p><a href="https://github.com/KangRokYoon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+	<a href="https://h2kangrok.tistory.com" target="_blank"><img alt="Tistory" src="https://img.shields.io/badge/Tistory-000000?&style=for-the-badge&logo=Tistory&logoColor=white" /></a>
+	<a href="https://velog.io/@ykr0919" target="_blank"><img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?&style=for-the-badge&logo=Velog&logoColor=white" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heejinnn/heejinnn/blob/output/github-contribution-grid-snake-dark.svg" />
