@@ -27,13 +27,15 @@
 
 <h3>My latest posts</h3>
 <ul>
- <li><a href="https://velog.io/@ykr0919/React-immer%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EB%B6%88%EB%B3%80%EC%84%B1-%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0"><b>[UIKit] searchController를 사용해보자</b></li>	
+ <li><a href="https://h2kangrok.tistory.com/7"><b>[Swift] Array.count에서 오류가 난 이유?</b></li>
+ <li><a href="https://h2kangrok.tistory.com/4"><b>[Swift] Swift의 $0구문은 어떻게 나온걸까?</b></li>
+ <li><a href="https://h2kangrok.tistory.com/2"><b>[UIKit] searchController를 사용해보자</b></li>
 <!--   <li><a href="https://velog.io/@ykr0919/React-%EB%8F%99%EA%B8%B0%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98"> <b> [JS] 동기와 비동기 그리고 콜백 함수</b></li>
   <li><a href="https://velog.io/@ykr0919/React-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%9D%BC%EC%9A%B0%ED%84%B0%EB%A1%9C-SPA-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0"><b>[React] 리액트 라우터로 SPA 개발하기</b></li> -->
-  <li><a href="https://velog.io/@ykr0919/React-immer%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EB%B6%88%EB%B3%80%EC%84%B1-%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0"><b>[React] immer를 사용하여 더 쉽게 불변성 유지하기</b></li>	  
+<!--   <li><a href="https://velog.io/@ykr0919/React-immer%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EB%B6%88%EB%B3%80%EC%84%B1-%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0"><b>[React] immer를 사용하여 더 쉽게 불변성 유지하기</b></li>	  
   <li><a href="https://velog.io/@ykr0919/React-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94"><b>[React] 컴포넌트 성능 최적화</b></li>
   <li><a href="https://velog.io/@ykr0919/JS-%EC%99%80-%EC%B0%A8%EC%9D%B4%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-%EB%B0%B1%ED%8B%B1%EC%9D%80"><b>[JS] " " 와 ' ' 차이가 무엇일까?? 백틱은 ??</b></li>
-   <li><a href="https://velog.io/@ykr0919/React-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81"><b>[React] 컴포넌트 스타일링</b></li>
+   <li><a href="https://velog.io/@ykr0919/React-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81"><b>[React] 컴포넌트 스타일링</b></li> -->
 </ul>
 
 <h3>Where to find me</h3>
