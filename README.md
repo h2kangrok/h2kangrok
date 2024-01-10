@@ -27,6 +27,7 @@
 
 <h3>My latest posts</h3>
 <ul>
+ <li><a href="https://h2kangrok.tistory.com/14)"><b>[Swift] 삼항연산자</b></li>
  <li><a href="https://h2kangrok.tistory.com/13"><b>[UIKit] Auto Layout이 필요한 이유 및 적용 그리고 약간의 Stack View</b></li>
  <li><a href="https://h2kangrok.tistory.com/12"><b>[UIKit] UIkit 프로젝트에서 StoryBoard 제거하기</b></li>
  <li><a href="https://h2kangrok.tistory.com/11"><b>[IOS] Remove Reference? Move to Trash? 뭘 선택해야 하지?</b></li>
