@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm KangRok, IOS developer from <img src="https://github.com/KangRokYoon/KangRokYoon/assets/129154834/6a763c64-03ff-49f6-a964-0750066369cb" width="13"/> <b>Daegu,Korea</b>
+<p>Welcome to my page! </br> I'm KangRok, iOS developer from <img src="https://github.com/KangRokYoon/KangRokYoon/assets/129154834/6a763c64-03ff-49f6-a964-0750066369cb" width="13"/> <b>Daegu,Korea</b>
 
 <h3>Activity</h3>
 <p>
