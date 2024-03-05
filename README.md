@@ -4,7 +4,7 @@
 
 <h3>Activity</h3>
 <p>
-	<b>LIKELION 11th (2023.3.20 ~ 2023.8.19)</b>
+	<b>LIKELION 11th FE (2023.3.20 ~ 2023.8.19)</b>
 </p>
 
 <h3>Things I code with</h3>
