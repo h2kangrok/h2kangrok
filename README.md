@@ -34,8 +34,8 @@
  <li><a href="https://h2kangrok.tistory.com/12"><b>[UIKit] UIkit 프로젝트에서 StoryBoard 제거하기</b></li>
  <li><a href="https://h2kangrok.tistory.com/11"><b>[IOS] Remove Reference? Move to Trash? 뭘 선택해야 하지?</b></li>
  <li><a href="https://h2kangrok.tistory.com/9"><b>[Swift] map{ Int($0)! } vs map{ Int(String($0))! )</b></li>
- <li><a href="https://h2kangrok.tistory.com/7"><b>[Swift] Array.count에서 오류가 난 이유?</b></li>
- <li><a href="https://h2kangrok.tistory.com/4"><b>[Swift] Swift의 $0구문은 어떻게 나온걸까?</b></li>
+<!--  <li><a href="https://h2kangrok.tistory.com/7"><b>[Swift] Array.count에서 오류가 난 이유?</b></li>
+ <li><a href="https://h2kangrok.tistory.com/4"><b>[Swift] Swift의 $0구문은 어떻게 나온걸까?</b></li> -->
 
 </ul>
 
