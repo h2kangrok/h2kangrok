@@ -28,6 +28,7 @@
 
 <h3>My latest posts</h3>
 <ul>
+ <li><a href="https://h2kangrok.tistory.com/18"><b>[IOS] cocoapods 설치 오류 해결 requires Ruby version >= 2.7.0</b></li>
  <li><a href="https://h2kangrok.tistory.com/15"><b>[Swift] Dictionary</b></li>
  <li><a href="https://h2kangrok.tistory.com/14"><b>[Swift] 삼항연산자</b></li>
  <li><a href="https://h2kangrok.tistory.com/13"><b>[UIKit] Auto Layout이 필요한 이유 및 적용 그리고 약간의 Stack View</b></li>
