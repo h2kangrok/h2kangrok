@@ -5,7 +5,6 @@
 <h3>Activity</h3>
 <p>
 	<b>LIKELION 11th FE (2023.3.20 ~ 2023.8.19)</b><br>
-	<b>LIKELION 12th FE 운영진 (2024.3.21 ~ )</b>
 </p>
 
 <h3>Things I code with</h3>
