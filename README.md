@@ -28,6 +28,8 @@
 
 <h3>My latest posts</h3>
 <ul>
+ <li><a href="https://h2kangrok.tistory.com/23"><b>[Swift] 배열 정렬 sort와 sorted</b></li>
+ <li><a href="https://h2kangrok.tistory.com/22"><b>[Swift] forEach(_:) 알아보기</b></li>
  <li><a href="https://h2kangrok.tistory.com/21"><b>[SwiftUI] 지금까지 해본 색상 적용</b></li>
  <li><a href="https://h2kangrok.tistory.com/18"><b>[IOS] cocoapods 설치 오류 해결 requires Ruby version >= 2.7.0</b></li>
  <li><a href="https://h2kangrok.tistory.com/15"><b>[Swift] Dictionary</b></li>
