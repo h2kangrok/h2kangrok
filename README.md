@@ -28,6 +28,7 @@
 
 <h3>My latest posts</h3>
 <ul>
+ <li><a href="https://h2kangrok.tistory.com/25"><b>[SwiftUI] 라이브러리에서 이미지 가져오기 UIImagePicker 적용</b></li>	
  <li><a href="https://h2kangrok.tistory.com/23"><b>[Swift] 배열 정렬 sort와 sorted</b></li>
  <li><a href="https://h2kangrok.tistory.com/22"><b>[Swift] forEach(_:) 알아보기</b></li>
  <li><a href="https://h2kangrok.tistory.com/21"><b>[SwiftUI] 지금까지 해본 색상 적용</b></li>
