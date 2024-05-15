@@ -26,15 +26,16 @@
 
 <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
 
-<h3>My latest posts</h3>
+<!--  <h3>My latest posts</h3></li>	
+
 <ul>
- <li><a href="https://h2kangrok.tistory.com/25"><b>[SwiftUI] 라이브러리에서 이미지 가져오기 UIImagePicker 적용</b></li>	
+<!--  <li><a href="https://h2kangrok.tistory.com/25"><b>[SwiftUI] 라이브러리에서 이미지 가져오기 UIImagePicker 적용</b></li>	
  <li><a href="https://h2kangrok.tistory.com/23"><b>[Swift] 배열 정렬 sort와 sorted</b></li>
  <li><a href="https://h2kangrok.tistory.com/22"><b>[Swift] forEach(_:) 알아보기</b></li>
  <li><a href="https://h2kangrok.tistory.com/21"><b>[SwiftUI] 지금까지 해본 색상 적용</b></li>
  <li><a href="https://h2kangrok.tistory.com/18"><b>[IOS] cocoapods 설치 오류 해결 requires Ruby version >= 2.7.0</b></li>
  <li><a href="https://h2kangrok.tistory.com/15"><b>[Swift] Dictionary</b></li>
- <li><a href="https://h2kangrok.tistory.com/14"><b>[Swift] 삼항연산자</b></li>
+ <li><a href="https://h2kangrok.tistory.com/14"><b>[Swift] 삼항연산자</b></li> -->
 <!--  <li><a href="https://h2kangrok.tistory.com/13"><b>[UIKit] Auto Layout이 필요한 이유 및 적용 그리고 약간의 Stack View</b></li>
  <li><a href="https://h2kangrok.tistory.com/12"><b>[UIKit] UIkit 프로젝트에서 StoryBoard 제거하기</b></li>
  <li><a href="https://h2kangrok.tistory.com/11"><b>[IOS] Remove Reference? Move to Trash? 뭘 선택해야 하지?</b></li>
