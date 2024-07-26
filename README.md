@@ -4,7 +4,8 @@
 
 <h3>Activity</h3>
 <p>
-	<b>LIKELION 11th FE (2023.3.20 ~ 2023.8.19)</b><br>
+	<b>LIKELION 11th FE (2023.03.20 ~ 2023.08.19)</b><br>
+	<b>Doosan Robotics ROKEY BOOT CAMP (2024.07.08 ~ )</b><br>
 </p>
 
 <h3>Things I code with</h3>
@@ -17,8 +18,8 @@
 	<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" /> -->
 <!-- 	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 	<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-	<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" />
-	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> -->
+	<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" /> -->
+	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
 	<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 </p>
 
