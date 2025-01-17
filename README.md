@@ -1,18 +1,18 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm KangRok, iOS developer from <img src="https://github.com/KangRokYoon/KangRokYoon/assets/129154834/6a763c64-03ff-49f6-a964-0750066369cb" width="13"/> <b>Daegu,Korea</b>
+<p>Welcome to my page! </br> I'm KangRok, developer from <img src="https://github.com/KangRokYoon/KangRokYoon/assets/129154834/6a763c64-03ff-49f6-a964-0750066369cb" width="13"/> <b>Daegu,Korea</b>
 
 <h3>Activity</h3>
 <p>
 	<b>LIKELION 11th FE (2023.03.20 ~ 2023.08.19)</b><br>
-	<b>Doosan Robotics ROKEY BOOT CAMP (2024.07.08 ~ )</b><br>
+	<b>Doosan Robotics ROKEY BOOT CAMP (2024.07.08 ~ 2025.01.02)</b><br>
 </p>
 
 <h3>Things I code with</h3>
 
 <p>	
-	<img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />
-	<img alt="IOS" src="https://img.shields.io/badge/-IOS-000000?style=flat-square&logo=IOS&logoColor=white" />
+<!-- 	<img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />
+	<img alt="IOS" src="https://img.shields.io/badge/-IOS-000000?style=flat-square&logo=IOS&logoColor=white" /> -->
 <!--  	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 	<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 	<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" /> -->
@@ -23,7 +23,7 @@
 	<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 </p>
 
-<h3>Studying now</h3>
+<!-- <h3>Studying now</h3>
 
 <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
 
